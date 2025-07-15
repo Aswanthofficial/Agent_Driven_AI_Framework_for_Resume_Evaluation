@@ -1,0 +1,7 @@
+Flask
+crewai
+langgraph
+langchain_community
+langchain_google_genai
+python-docx
+PyMuPDF
