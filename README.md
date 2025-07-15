@@ -1,4 +1,4 @@
-# 🧠 Agent-Driven AI Resume Evaluator with CrewAI & Gemini
+# Agent-Driven AI Resume Evaluator with CrewAI & Gemini
 
 This project showcases how to use **multi-agent LLMs** powered by **CrewAI**, **LangChain**, and **Gemini 1.5 Flash** to **automatically evaluate resumes** and generate personalized candidate messages based on job fit.
 
@@ -28,6 +28,5 @@ This project showcases how to use **multi-agent LLMs** powered by **CrewAI**, **
 - Gemini 1.5 Flash
 - Bootstrap 5
 
-## 🛡️ License
-MIT
+
 
